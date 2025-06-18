@@ -30,7 +30,7 @@ _User Roles_
 - Admin: Manages deliveries, users, riders.
 - User: Books and tracks parcels.
 - Rider: Views delivery tasks and updates status.
-- 
+
 # Interface Design
 - Top Banner: Attractive illustration showing courier delivery concept.
 - Form Fields: Inputs for email and password with validation.

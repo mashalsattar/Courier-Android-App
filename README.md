@@ -31,12 +31,6 @@ _User Roles_
 - User: Books and tracks parcels.
 - Rider: Views delivery tasks and updates status.
 
-# Interface Design
-- Top Banner: Attractive illustration showing courier delivery concept.
-- Form Fields: Inputs for email and password with validation.
-- Buttons: Role-specific action buttons for login and registration.
-- Color Coding: Different colors used to distinguish user roles.
-
 # Benefits
 - Enhances customer convenience through digital bookings.
 - Real-time login and data access.
